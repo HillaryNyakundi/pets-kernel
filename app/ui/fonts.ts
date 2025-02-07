@@ -8,4 +8,5 @@ export const poppins = Poppins({
 export const redressed = Redressed({
   subsets: ["latin"],
   weight: "400",
+  display: "swap",
 });
