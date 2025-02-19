@@ -1,7 +1,15 @@
-import React from "react";
+import HeroSection from '@/app/components/Landing_page/home/page';
+import ContactSection from '@/app/components/Landing_page/contact/page';
+import CategorySection from '@/app/components/Landing_page/category/page';
+import AboutSection from '@/app/components/Landing_page/about/page';
 
 export default function Home() {
   return (
-    <p className="text-red-500">Hello World, I will make Mama proud one day</p>
+    <div suppressHydrationWarning>
+      <HeroSection />
+      <AboutSection />
+      <CategorySection />
+      <ContactSection />
+    </div>
   );
 }
