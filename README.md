@@ -1,6 +1,6 @@
 ## Pets-Shop - Frontend
 
-This app is an ecommerce platform. The project is divided into two parts: the frontend and the backend. This repository contains the frontend part of the project. The project should highlight the onboarding process of the users to be able to find needs for their interests in pets, it starts by focusing on dogs, different breeds of dogs.
+This app is an ecommerce platform. The project is divided into two parts: the frontend and the backend. This repository contains the frontend part of the project. The project should highlight the onboarding process of the users to be able to buy, sell, take care of a pet and find their lost pet, it starts by focusing on dogs, different breeds of dogs.
 
 ### Technologies Used
 
